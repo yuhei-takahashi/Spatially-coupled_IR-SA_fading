@@ -14,7 +14,7 @@
 
 - **How to cite**
 
-If you extend or use this work, please cite the [paper](https://ieeexplore.ieee.org/stamp/redirect.jsp?arnumber=/6287639/6514899/10266359.pdf) where it was introduced:
+If you extend or use this work, please cite the [paper](https://ieeexplore.ieee.org/document/10266359) where it was introduced:
 ```
 @ARTICLE{10266359,
   author={Takahashi, Yuhei and Song, Guanghui and Kimura, Tomotaka and Cheng, Jun},
