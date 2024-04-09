@@ -1,18 +1,17 @@
-# Spatially-coupled_IR-SA_fading
 
-- **Abstract**
-
-#あとで書く
-
-- **Instructions**
+# Abstract
 
 #あとで書く
 
-- **Demo**
+# Instructions
 
 #あとで書く
 
-- **How to cite**
+# Demo
+
+#あとで書く
+
+# How to cite
 
 If you extend or use this work, please cite the [paper](https://ieeexplore.ieee.org/document/10266359) where it was introduced:
 ```
