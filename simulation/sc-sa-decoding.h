@@ -107,7 +107,6 @@ public:
   Channel(){
     R = 1;
     b=pow(2,R)-1;
-    b=1;
   }
   ~Channel(){}
     
